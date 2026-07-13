@@ -3,9 +3,9 @@
 int main()
 {
     int i, n;
-    float sum = 0.0;
+    float sum = 0;
 
-    printf("Enter n: ");
+    printf("Enter n");
     scanf("%d", &n);
 
     for(i = 1; i <= n; i++)
